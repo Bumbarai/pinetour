@@ -534,6 +534,7 @@
 .popular {
   display: flex;
   width: 100%;
+  margin: 0px;
   justify-content: space-between;
   align-items: center;
 }
